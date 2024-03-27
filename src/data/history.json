@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Jobaxle",
+    "startDate": "Sept, 2023",
+    "endDate": "March,2024",
+    "experiences": ["Worked on  Resume Builder", "Work on Authentication","work on Job section"],
+    "imageSrc": "history/jobaxle.jpg"
+  }
+]
