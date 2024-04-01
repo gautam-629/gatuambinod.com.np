@@ -22,20 +22,20 @@ export const Experience = () => {
             );
           })}
         </div>
-        <ul className={styles.history}>
+        <ul className={styles.history} >
           {history.map((historyItem, id) => {
             return (
-              <li key={id} className={styles.historyItem}>
-                <img
+              <li key={id} className={styles.historyItem} >
+                {/* <img
                   src={getImageUrl(historyItem.imageSrc)}
                   alt={`${historyItem.organisation} Logo`}
-                />
+                /> */}
                 <div className={styles.historyItemDetails}>
                   <h3>{`${historyItem.role}, ${historyItem.organisation}`}</h3>
                   <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
                   <ul>
                     {historyItem.experiences.map((experience, id) => {
-                      return <li key={id}>{experience}</li>;
+                      return <li style={{marginTop:'20px'}} key={id}>{experience}</li>;
                     })}
                   </ul>
                 </div>
