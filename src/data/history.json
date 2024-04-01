@@ -4,7 +4,10 @@
     "organisation": "Jobaxle",
     "startDate": "Sept, 2023",
     "endDate": "April,2024",
-    "experiences": ["Worked on  Resume Builder", "Work on Authentication","work on Job section"],
+    "experiences": ["Proposed and developed Seeker Details and Resume Builder features, enhancing user profiles and simplifying resume creation",
+                   "Enhanced job search with advanced filtering, including save, unsave, archive, and apply job functionalities.",
+                   "Optimized authentication processes for enhanced user experience and security.",
+                    "Utilized Next.js for streamlined server-side rendering, MySQL database for resilient data storage, Prisma ORM for seamless interactions, TypeScript for secure development, and Mantine UI for intuitive interfaces."],
     "imageSrc": "history/jobaxle.jpg"
   }
 ]
