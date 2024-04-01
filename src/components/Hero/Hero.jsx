@@ -9,10 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm <b>Binod Gatuam</b></h1>
         <p className={styles.description}>
-          I'm a passionate <b>MERN Stack Developer</b> who knows <b>React, Node.js, Express, Next.js, Nest js </b>
-          and <b>MongoDB</b>  well. I'm good at <b>Test-Driven Development (TDD)</b>, and I'm always excited to
-          learn about and use the newest technologies. I love tackling tough problems and finding
-          smart solutions, all while following the best ways to write software.
+          I am a passionate <b>Full Stack Developer</b> and <b>JavaScript enthusiast</b>.
+          I have experience working with <b>React, Node.js, Express, Next.js, Nest.js, MongoDB, and MySQL</b>.
+          I enjoy applying <b>Test-Driven Development(TDD)</b> to creatively solve problems and develop efficient solutions. Staying updated with the latest technology excites me, and I am constantly seeking ways to enhance my skills.
+          When coding, I prioritize following best practices and producing clean, easy-to-maintain code.
         </p>
         <a href="mailto:  gautambinod629@gmail.com" className={styles.contactBtn} target="_blank">
           Contact Me
